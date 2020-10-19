@@ -1,2 +1,2 @@
 # Machine_Learning
--ML Classifiers Implementation in MATLAB and Python
+-Implementation of Machine Learning Classifiers in MATLAB and Python
